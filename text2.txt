@@ -1,8 +1,0 @@
-John Smith – True
-Same Poll – False, Did not work with Python and C++ in the last position
-Jane Doe – False, Does not live in London
-Mohamed Ali – False, Never worked at a FAANG company
-Susan Anderson – True
-None None – False, Not enough experience
-Ivan123 Petrov!@# – False, Not enough experience
-Jane Doe – False, Not enough experience
