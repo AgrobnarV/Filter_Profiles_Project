@@ -22,13 +22,13 @@ The repository contains a file containing a pydantic profile schema. This schema
 The list of profiles must be a JSON file located in the project.
 
 **Task Details**
-Prepare two verification functions:
-    1. Experienced Python developer
-        Worked at a FAANG company in one of the last two work experiences
-        Position in the last three work experiences: Backend developer or Software engineer
-        Total experience of more than 8 years
-        Worked with Python and C++ in the last position
-        Lives in London
+Prepare a verification function:
+- Experienced Python developer
+- Worked at a FAANG company in one of the last two work experiences
+- Position in the last three work experiences: Backend developer or Software engineer
+- Total experience of more than 8 years
+- Worked with Python and C++ in the last position
+- Lives in London
 
 [//]: # (    2. Middle UX designer)
 [//]: # (        Worked as a Product designer or UX designer or similar in two &#40;or one if the company is one&#41; of the last work experiences)
@@ -50,10 +50,10 @@ python <your entry point> --filter <chosen filter> --input <file_name>
 
 **Output**
 For each profile in file_name, the status of the check is printed to the console:
-# ($ python3 <args>)
-# (John Smith – True)
-# (Elon Musk – False, Not enough experience)
-# (Steve Jobs – False, Never worked in UK)
+- ($ python3 <args>)
+- (John Smith – True)
+- (Elon Musk – False, Not enough experience)
+- (Steve Jobs – False, Never worked in UK)
 
 **Values**
 - True: The check passed
