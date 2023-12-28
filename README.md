@@ -1,6 +1,3 @@
-**Requirements for task**
-Write a CLI program that filters profiles that meet a condition.
-
 **Profile**
 A profile is a description of a person's career path. A profile contains the following:
 1. Name
